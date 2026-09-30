@@ -11,7 +11,7 @@ My current focus is building secure applications, dependable data pipelines, and
 - **[IronHook](https://github.com/mattbaise/IronHook)** — An integrated terminal operations platform for vessel and yard coordination, workforce management, cargo security, equipment workflows, role-based access, and interactive operational demos.
 - **[GameScope](https://github.com/SportsApp-Data-Java/GameScope)** — A collaborative sports intelligence platform designed to analyze historical performance, matchup trends, geography, weather, and other real-world factors behind sports outcomes.
 - **[MediciMessDelta](https://github.com/MediciMessDelta/MediciMessDelta)** — A team-built banking analytics platform featuring ETL pipelines, financial KPIs, REST APIs, anomaly detection, branch-level access control, and an interactive dashboard.
-- **SparkCity** — A distributed smart-city data engineering project using PySpark, PostgreSQL, Docker, and Jupyter. I developed the weather pipeline, validation rules, transformations, and environmental analytics.
+- **[SparkCity](https://github.com/SparkCitySTEAMConvention/SparkCity_Capstone)** — A distributed smart-city data engineering project using PySpark, PostgreSQL, Docker, and Jupyter. I developed the weather pipeline, validation rules, transformations, and environmental analytics.
 - **[MuseumsNotebook](https://github.com/mattbaise/MuseumsNotebook)** — Exploratory analysis of U.S. museum data using Python, Pandas, Jupyter Notebook, and visual storytelling.
 - **[OnesToManys](https://github.com/mattbaise/OnesToManys)** — A hands-on exploration of three-tier web architecture, relational data modeling, REST APIs, and master-detail application design.
 
