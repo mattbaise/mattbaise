@@ -28,7 +28,7 @@ My current focus is building secure applications, dependable data pipelines, and
 
 ## A little more about me
 
-I'm currently sharpening my software and data engineering skills through Zip Code Wilmington. I enjoy collaborative problem-solving, learning new systems, and building technology with a clear purpose—not just code that works, but products that make sense to the people using them.
+I currently sharpened my software and data engineering skills through Zip Code Wilmington which I've recently completed. I enjoy collaborative problem-solving, learning new systems, and building technology with a clear purpose—not just code that works, but products that make sense to the people using them.
 
 ---
 
