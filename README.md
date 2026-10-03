@@ -26,9 +26,15 @@ My current focus is building secure applications, dependable data pipelines, and
 - Strengthening distributed processing and cloud data engineering skills
 - Turning ambitious product ideas into working applications
 
+## Building Baiseline
+
+Alongside my engineering work, I'm building **[Baiseline](https://github.com/mattbaise/Baiseline)** — a developer-focused product brand for practical tools, templates, automation, and technical resources. It's an extension of the same work I enjoy as an engineer: identifying repetitive or difficult workflows and turning them into useful, well-documented software.
+
+**[Visit Baiseline](https://mattbaise.github.io/Baiseline/)** · Free developer resources, tools, and upcoming products
+
 ## A little more about me
 
-I currently sharpened my software and data engineering skills through Zip Code Wilmington which I've recently completed. I enjoy collaborative problem-solving, learning new systems, and building technology with a clear purpose—not just code that works, but products that make sense to the people using them.
+I recently completed Zip Code Wilmington, where I sharpened my software and data engineering skills. I enjoy collaborative problem-solving, learning new systems, and building technology with a clear purpose—not just code that works, but products that make sense to the people using them.
 
 ---
 
